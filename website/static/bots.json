@@ -143,22 +143,22 @@
     "is_official": false
   },
   {
-    "name": "LiteyukiBot-轻雪机器人",
-    "desc": "一个有各种琐事功能的bot，有AI接口，能陪聊",
-    "author": "snowyfirefly",
-    "homepage": "https://github.com/snowyfirefly/Liteyuki",
+    "name": "LiteyukiBot轻雪机器人",
+    "desc": "便于部署，轻量，多功能的Bot",
+    "author": "SnowyKami",
+    "homepage": "https://github.com/snowykami/LiteyukiBot",
     "tags": [
       {
-        "label": "可爱",
-        "color": "#ffc0cb"
+        "label": "轻量",
+        "color": "#d0e9ff"
       },
       {
-        "label": "AI",
-        "color": "#ea5252"
+        "label": "便捷",
+        "color": "#d0fff3"
       },
       {
         "label": "a:onebot",
-        "color": "#000000"
+        "color": "#ff0000"
       }
     ],
     "is_official": false
